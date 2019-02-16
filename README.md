@@ -7,5 +7,10 @@ To use pxtovh you must:
 ----------------------------------------------
 
 You may add alias command:
+  echo 'alias pxtovh="pyhton3 /home/pxtovh/pxtovh.py"' >> ~/.bashrc
+  
+----------------------------------------------
+
+You may download install.sh file and all ;)
 
 
