@@ -2,7 +2,8 @@ To use pxtovh you must:
 
 # 1. Download & install python3
 # 2. git clone https://github.com/taphix/pxtovh
-# 3. sh install.sh
+# 3. cd /home/$USER/pxtovh
+# 4. sh install.sh
 Launch this file. Usage: python3 pxtovh.py
 
 ----------------------------------------------
